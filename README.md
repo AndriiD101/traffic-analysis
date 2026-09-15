@@ -34,6 +34,7 @@ pre-seed those files.
 
 ```bash
 python main.py --source rtsp://user:password@192.168.1.10:554/Streaming/Channels/101
+python main.py --source <filelocation>
 ```
 
 Optional: use a dedicated trained license-plate detector for maximum accuracy
